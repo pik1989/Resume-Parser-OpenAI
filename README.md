@@ -8,6 +8,9 @@ To build such an app, you can leverage various tools and libraries, including Py
 
 The app's functionality aligns with the growing need for streamlined recruitment processes and the increasing reliance on technology to evaluate and process job applications. By providing users with a detailed analysis of their resumes, the app empowers job seekers to optimize their resumes for better visibility and compatibility with ATS.
 
+![image](https://github.com/pik1989/Resume-Parser-OpenAI/assets/34673684/5d206207-1b25-4dbe-8e11-add701b632e7)
+
+
 ### Steps
 To create a detailed Github readme for the resume parser app, you can consider including the following sections:
 #### Overview: 
