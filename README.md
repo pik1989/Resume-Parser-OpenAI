@@ -12,17 +12,17 @@ The app's functionality aligns with the growing need for streamlined recruitment
 ![image](https://github.com/pik1989/Resume-Parser-OpenAI/assets/34673684/5d206207-1b25-4dbe-8e11-add701b632e7)
 
 #### Overview: 
-Provide a brief overview of the app's purpose and functionality, emphasizing its role in helping job seekers assess the ATS friendliness of their resumes.
+This App is created for job seekers to test whether their resumes are ATS friendly or not, if our App is able to parse your details and show it, then assume that everything is good.
+
 #### Features: 
-Highlight the key features of the app, such as the ability to extract specific information from resumes, the use of JSON format for presenting the extracted data, and the integration of various libraries and tools for parsing resumes.
+Ability to extract specific information from resumes, the use of JSON format for presenting the extracted data, and the integration of various libraries and tools for parsing resumes.
+
 #### Installation: 
-Include clear instructions on how to install and set up the app, including any dependencies and prerequisites.
+Run the pip install requirements.txt to install and set up the app, including any dependencies and prerequisites.
+
 #### Usage: 
-Provide examples and guidelines on how users can interact with the app, including the process of uploading a resume, initiating the parsing process, and interpreting the extracted information in JSON format.
-#### Contributing: 
-Encourage contributions from the open-source community, outlining how developers can contribute to the app's improvement and expansion.
-##### License: 
-Specify the app's license and any relevant terms of use.
+Just upload your resume in pdf format, and see for yourself :)
+
 
 ##### Running the program
 
@@ -32,5 +32,9 @@ Specify the app's license and any relevant terms of use.
 
     ```
     python app.py
+    ```
+
+    ```
+    Go to: https://localhost:8000
     ```
 Overall, the development of a resume parser app using Flask represents a significant advancement in leveraging technology to support job seekers in optimizing their resumes for the modern recruitment landscape. This app aligns with the increasing demand for efficient and technology-driven solutions in the job application process, ultimately benefiting both job seekers and recruiters.
