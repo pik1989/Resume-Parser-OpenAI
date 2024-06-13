@@ -10,12 +10,18 @@ The app's functionality aligns with the growing need for streamlined recruitment
 
 ### Steps
 To create a detailed Github readme for the resume parser app, you can consider including the following sections:
-#### Overview: Provide a brief overview of the app's purpose and functionality, emphasizing its role in helping job seekers assess the ATS friendliness of their resumes.
-#### Features: Highlight the key features of the app, such as the ability to extract specific information from resumes, the use of JSON format for presenting the extracted data, and the integration of various libraries and tools for parsing resumes.
-#### Installation: Include clear instructions on how to install and set up the app, including any dependencies and prerequisites.
-#### Usage: Provide examples and guidelines on how users can interact with the app, including the process of uploading a resume, initiating the parsing process, and interpreting the extracted information in JSON format.
-#### Contributing: Encourage contributions from the open-source community, outlining how developers can contribute to the app's improvement and expansion.
-##### License: Specify the app's license and any relevant terms of use.
+#### Overview: 
+Provide a brief overview of the app's purpose and functionality, emphasizing its role in helping job seekers assess the ATS friendliness of their resumes.
+#### Features: 
+Highlight the key features of the app, such as the ability to extract specific information from resumes, the use of JSON format for presenting the extracted data, and the integration of various libraries and tools for parsing resumes.
+#### Installation: 
+Include clear instructions on how to install and set up the app, including any dependencies and prerequisites.
+#### Usage: 
+Provide examples and guidelines on how users can interact with the app, including the process of uploading a resume, initiating the parsing process, and interpreting the extracted information in JSON format.
+#### Contributing: 
+Encourage contributions from the open-source community, outlining how developers can contribute to the app's improvement and expansion.
+##### License: 
+Specify the app's license and any relevant terms of use.
 
 ##### Running the program
 
